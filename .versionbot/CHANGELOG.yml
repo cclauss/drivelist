@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update dependency @types/mocha to 10.0.0
+      hash: f4964dbd908a0010ea12b9833e76001ad31a0c7b
+      body: |
+        Update @types/mocha to 10.0.0
+
+        Update @types/mocha from 9.1.1 to 10.0.0
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+  version: 11.0.1
+  title: "'Update dependency @types/mocha to 10.0.0'"
+  date: 2022-10-25T23:04:02.801Z
+- commits:
     - subject: Switching to Napi
       hash: 4a9e7ecb2af97eb85eacce5060bc0aeffa991c4a
       body: >
