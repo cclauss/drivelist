@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update dependency cpplint to 1.6.1
+      hash: 9ea3753b1547c277512be86d1e92ec1ffdf9aaa3
+      body: |
+        Update cpplint to 1.6.1
+
+        Update cpplint from 1.3.0 to 1.6.1
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+  version: 11.1.0
+  title: "'Update dependency cpplint to 1.6.1'"
+  date: 2022-10-25T22:54:35.972Z
+- commits:
     - subject: Switching to Napi
       hash: 4a9e7ecb2af97eb85eacce5060bc0aeffa991c4a
       body: >
