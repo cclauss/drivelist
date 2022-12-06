@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update dependency sinon to 15.0.0
+      hash: 50a4b65d7260b3ed10b05c8f66d73c4efa8e4d56
+      body: |
+        Update sinon to 15.0.0
+
+        Update sinon from 14.0.1 to 15.0.0
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Renovate Bot
+  version: 11.0.5
+  title: ""
+  date: 2022-12-06T23:46:11.813Z
+- commits:
     - subject: fix build
       hash: cd6434d98e8f57f7a1228e110c20686462a155be
       body: ""
