@@ -20,7 +20,7 @@ jobs:
       (github.event.pull_request.head.repo.full_name != github.repository && github.event_name == 'pull_request_target')
     secrets: inherit
     with:
-      tests_run_on: '["ubuntu-latest","macos-latest","windows-latest"]'
+      tests_run_on: '["ubuntu-latest","macos-latest","windows-2019"]'
       restrict_custom_actions: false
       repo_config: true
       repo_description: "List all connected drives in your computer, in all major operating systems"
