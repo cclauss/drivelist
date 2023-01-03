@@ -1,4 +1,15 @@
 - commits:
+    - subject: Update dependencies
+      hash: a8f81e671b3dcf019c56da705dd0feb0001fe974
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+  version: 11.0.5
+  title: ""
+  date: 2023-01-03T19:44:11.291Z
+- commits:
     - subject: fix build
       hash: cd6434d98e8f57f7a1228e110c20686462a155be
       body: ""
